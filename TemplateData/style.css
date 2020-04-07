@@ -64,3 +64,8 @@ box-shadow: 0px 5px 65px -9px rgba(0,0,0,0.4);
       transform: rotate(-5deg);
     transition-duration: 0.5s;
 }
+
+p.privacy {
+    font-size: 14px;
+    color: #ada49b;
+}
